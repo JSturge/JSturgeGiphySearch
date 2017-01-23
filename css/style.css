@@ -1,0 +1,46 @@
+body {
+   background-color: black;
+   width: 90%;
+   margin: 0 auto;
+}
+
+.logo img {
+  max-width: 40%;
+  display: block;
+  margin: 0 auto;
+}
+
+.search{
+  padding: 10px 0 40px 0;
+  text-align: center;
+  margin-left: -15px;
+  
+}
+
+.search input {
+  max-width: 40%;
+  font-size: 22px;
+  
+  
+}
+
+.search button {
+  font-size: 16px;
+  
+  
+}
+
+.search h1 {
+  font-size: 40px;
+  color: white;
+}
+
+.searchResults {
+  text-align: center;
+}
+
+.gifs {
+  padding: 5px;
+  max-width: 700px;
+  max-height: 200px;
+}
